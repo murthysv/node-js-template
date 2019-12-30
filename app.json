@@ -2,4 +2,10 @@
   "name": "Node.js template",
   "description": "A barebones Node.js app using Express 4",
   "keywords": ["node", "express", "heroku"]
+  "dependencies":{
+        "ejs": "^1.0.0",
+        "express": "^4.6.1",
+        "multer": "^1.0.0",
+        "body-parser":"^1.0.0"
+  }
 }
